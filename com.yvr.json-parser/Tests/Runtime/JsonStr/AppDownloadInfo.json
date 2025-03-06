@@ -1,0 +1,29 @@
+[
+    {
+        "isSystem": false,
+        "totalSize": 704264327,
+        "downloadSize": 52958191,
+        "appId": 3308841940,
+        "name": "Punch",
+        "pkg": "com.hemudu.punch",
+        "status": 3
+    },
+    {
+        "isSystem": false,
+        "totalSize": 107750076,
+        "downloadSize": 40807195,
+        "appId": 3823345597,
+        "name": "爱奇艺 HD",
+        "pkg": "com.qiyi.video.pad",
+        "status": 3
+    },
+    {
+        "isSystem": false,
+        "totalSize": 271464018,
+        "downloadSize": 0,
+        "appId": 9268865956,
+        "name": "暴走篮球",
+        "pkg": "io.realcast.justhoops.yvr",
+        "status": 7
+    }
+]

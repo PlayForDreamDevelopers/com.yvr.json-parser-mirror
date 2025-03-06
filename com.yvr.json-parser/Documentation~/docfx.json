@@ -1,0 +1,69 @@
+{
+    "metadata": [
+        {
+            "src": [
+                {
+                    "src": "../../TestProjects/JsonParser",
+                    "files": [
+                        "YVR.JsonParser.Runtime.csproj"
+                    ]
+                }
+            ],
+            "dest": "Apis",
+            "filter": "../../DocFx/filterConfig.yml"
+        }
+    ],
+    "build": {
+        "content": [
+            {
+                "files": [
+                    "Apis/**.yml",
+                    "Apis/**/index.md"
+                ]
+            },
+            {
+                "files": [
+                    "UserManual/**.md",
+                    "UserManual/**/**/toc.yml"
+                ]
+            },
+            {
+                "files": [
+                    "toc.yml",
+                    "index.md"
+                ]
+            }
+        ],
+        "resource": [
+            {
+                "files": [
+                    "UserManual/**.png",
+                    "UserManual/**.jpg"
+                ]
+            }
+        ],
+        "overwrite": [
+            {
+                "files": [
+                    "ApisDocs/**.md"
+                ]
+            }
+        ],
+        "dest": "_site",
+        "globalMetadata": {
+            "_enableSearch": true
+        },
+        "template": [
+            "../../DocFx/DefaultTemplate",
+            "../../DocFx/Plugins/memberpage.2.56.6/content",
+            "../../DocFx/Plugins/Custom/",
+            "../../DocFx/Plugins/DocFx.Plugins.PlantUml/template"
+        ],
+        "markdownEngineProperties": {
+            "plantUml.localPlantUmlPath": "../../DocFx/plantuml.jar",
+            "plantUml.outputFormat": "svg",
+            "plantUml.remoteUrl": "http://www.plantuml.com/plantuml/",
+            "plantUml.renderingMode": "remote"
+        }
+    }
+}

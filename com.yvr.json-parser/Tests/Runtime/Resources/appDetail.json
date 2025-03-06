@@ -1,0 +1,57 @@
+{
+    "data": {
+        "scover": "https://apidev.yvrdream.com/vrmc/pics/eeb90489-6f91-4242-86b3-915f906a692f.png",
+        "vedios": [
+            {
+                "vedio": "https://apidev.yvrdream.com/vrmc/vedios/2d7b731a-c319-46bb-b92b-60891a3c5932.webm",
+                "id": 48,
+                "pic": "https://apidev.yvrdream.com/vrmc/vedios/0d8c8122-6a42-497f-b294-3d9e4851bb00.jpg"
+            }
+        ],
+        "promId": 0,
+        "nMode": "无需联网",
+        "discount": "1",
+        "pkg": "com.game.STRIDE1",
+        "aver": 4.2,
+        "cgy": 2,
+        "downloads": 0,
+        "star1": 0,
+        "id": 1042,
+        "state": 0,
+        "tag": [
+            1,
+            5,
+            10
+        ],
+        "abbr": "s",
+        "lang": "English",
+        "pics": [
+            "https://apidev.yvrdream.com/vrmc/pics/7be5d630-a249-4188-b314-0323881bd645.jpg",
+            "https://apidev.yvrdream.com/vrmc/pics/c107117b-15be-4e18-9d48-67df091efefd.jpg",
+            "https://apidev.yvrdream.com/vrmc/pics/4107f6bd-ddfc-4fab-8fac-cbb5ca6ede1d.jpg",
+            "https://apidev.yvrdream.com/vrmc/pics/640d29ac-ce32-4341-97c0-0b257e371c8c.jpg",
+            "https://apidev.yvrdream.com/vrmc/pics/926e2649-0fc4-496d-985e-543650cb47ea.jpg"
+        ],
+        "brief": "《STRIDE》是一款高强度虚拟现实跑酷冒险游戏。你将在未来都市的屋顶上穿梭，为生命而战。现在就化身跑酷大师，在这场紧张而刺激的冒险中跳跃、摇摆、翻滚、射击吧。你能在这场终极跑酷中幸存？本游戏基于虚拟现实技术开发，你将在令人目眩的高空腾挪，越过难以想象沟壑，找到心跳加速的感觉。千万别向下看！",
+        "fname": "YVRLauncher1026_1.1.apk",
+        "ver": "1.0",
+        "count": 3,
+        "star4": 0,
+        "star5": 3,
+        "rcover": "https://apidev.yvrdream.com/vrmc/pics/8a947d4e-a267-448c-858e-052696453f41.png",
+        "star2": 0,
+        "sprice": 8900,
+        "star3": 0,
+        "tdate": "2020-10-28",
+        "size": 74,
+        "purchased": 0,
+        "authority": "麦克风权限、通知权限",
+        "name": "STRIDE",
+        "developer": "Joy Way",
+        "time": "2020-10-28 20:18:08",
+        "bprice": 8900,
+        "md5": "d1d62340961511ab6310999796b74e84"
+    },
+    "errCode": 0,
+    "errMsg": "success"
+}

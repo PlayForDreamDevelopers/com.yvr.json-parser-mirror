@@ -1,0 +1,11 @@
+{
+  "name": "com.yvr.json-parser",
+  "version": "0.0.10",
+  "displayName": "YVR Json Parser",
+  "description": "This is the Json Parser",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.yvr.utilities": "0.5.2",
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  }
+}
